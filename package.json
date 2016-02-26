@@ -1,0 +1,26 @@
+{
+  "name": "gulp-typescript-mix-namespace",
+  "version": "0.0.1-dev",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valaxy/gulp-typescript-mix-namespace.git"
+  },
+  "author": "valaxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valaxy/gulp-typescript-mix-namespace/issues"
+  },
+  "homepage": "https://github.com/valaxy/gulp-typescript-mix-namespace#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "through2": "^2.0.1",
+    "typescript": "^1.8.2",
+    "typescript-formatter": "^2.1.0"
+  }
+}
